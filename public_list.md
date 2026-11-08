@@ -1,0 +1,3 @@
+- [AntiAD](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt)
+- [AdRules](https://raw.githubusercontent.com/Cats-Team/AdRules/main/mosdns_adrules.txt)
+- [HaGeZiPro](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro-onlydomains.txt)

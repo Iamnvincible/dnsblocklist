@@ -1,0 +1,5 @@
+regexp:t\d+.baidu.com
+at4.doubanio.com
+ibrowser.feeds.heytapmobi.com
+bizrate.com
+statics.citics.com
